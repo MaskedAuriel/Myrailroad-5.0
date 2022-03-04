@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{5C35B410-433B-20FC-2F2C-779DC19674DA}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Myrailroad",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
